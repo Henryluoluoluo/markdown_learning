@@ -23,10 +23,10 @@ $\heartsuit$
 - test
 
 ## 画表格
-姓名|技能|排行
---|--|--:
-关羽|哭|二哥
-刘备|打|大哥
+| 姓名 | 技能 | 排行 |
+| ---- | ---- | ---- |
+| 关羽 | 哭   | 二哥 |
+| 刘备 | 打   | 大哥 |
 
 ## 代码
 `create database hero `
@@ -37,3 +37,9 @@ $\heartsuit$
     }
     func()
 ```
+
+[*这是一个链接*](https://www.bilibili.com/)
+
+## Table List
+- [x] finish my changes
+- [ ] push my commit to github
